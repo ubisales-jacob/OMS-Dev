@@ -1,0 +1,31 @@
+﻿/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.space-lg {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.description {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.page-break {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    margin-top: 25px;
+    background-color: transparent;
+    outline: 0;
+}
