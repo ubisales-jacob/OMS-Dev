@@ -118,3 +118,6 @@ D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\PdfSharp.xml
 D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\PdfSharp.Charting.xml
 D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\de\PdfSharp.resources.dll
 D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\de\PdfSharp.Charting.resources.dll
+D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\Fizzler.dll
+D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Dev\ubisales-jacob\OMS-Dev\OMS-Dev\bin\Fizzler.Systems.HtmlAgilityPack.pdb

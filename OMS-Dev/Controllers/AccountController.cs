@@ -5,9 +5,13 @@ using OMS_Dev.Entities;
 using OMS_Dev.Models;
 using OMS_Dev.Models.ViewModels;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using HtmlAgilityPack;
+using Fizzler.Systems.HtmlAgilityPack;
+using System;
 
 namespace OMS_Dev.Controllers
 {
